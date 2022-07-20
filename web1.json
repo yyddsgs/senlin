@@ -1,0 +1,380 @@
+{
+	"webPlugins": [{
+		"data": [{
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.baipiaozhe.com",
+			"host": "https://www.baipiaozhe.com",
+			"snifferType": 1,
+			"title": "白嫖者"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.dyxs8.com",
+			"host": "https://www.dyxs8.com",
+			"snifferType": 1,
+			"title": "电影先生"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.laodouban.com",
+			"host": "https://www.laodouban.com",
+			"snifferType": 1,
+			"title": "老豆瓣"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.dianyinggou.com/yingku/",
+			"host": "https://www.dianyinggou.com/yingku/",
+			"snifferType": 1,
+			"title": "电影狗"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.dianyingtaotao.com/",
+			"host": "https://www.dianyingtaotao.com/",
+			"snifferType": 1,
+			"title": "电影淘淘"
+		}],
+		"name": "聚合搜索",
+		"type": "down",
+		"order": 0
+	}, {
+		"data": [{
+			"color": "#FF0000",
+			"contentUrl": "http://www.zhenbuka5.com",
+			"host": "http://www.zhenbuka5.com",
+			"snifferType": 1,
+			"title": "真不卡"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "https://www.bde4.cc",
+			"host": "https://www.bde4.cc",
+			"snifferType": 1,
+			"title": "哔嘀影视"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "https://www.nunuyy.top/",
+			"host": "https://www.nunuyy.top/",
+			"snifferType": 1,
+			"title": "努努影院"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "http://www.ikuwoo.cn/",
+			"host": "http://www.ikuwoo.cn/",
+			"snifferType": 1,
+			"title": "奇粹影院"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "https://555dy.fun/",
+			"host": "https://555dy.fun/",
+			"snifferType": 1,
+			"title": "555电影"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://m.22tu.cc/",
+			"host": "https://m.22tu.cc/",
+			"snifferType": 1,
+			"title": "迅播影院"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://xkys.tv/",
+			"host": "https://xkys.tv/",
+			"snifferType": 1,
+			"title": "星空影院"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "http://www.tvyb02.com",
+			"host": "http://www.tvyb02.com",
+			"snifferType": 1,
+			"title": "TVB云播"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.bttwo.com",
+			"host": "https://www.bttwo.com",
+			"snifferType": 1,
+			"title": "BT影院"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "http://m.tv8box.com",
+			"host": "http://m.tv8box.com",
+			"snifferType": 1,
+			"title": "tvbox"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "http://nangua55.com/",
+			"host": "http://nangua55.com/",
+			"snifferType": 1,
+			"title": "南瓜影院"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "http://omofun.tv/",
+			"host": "http://omofun.tv/",
+			"snifferType": 1,
+			"title": "OmoFu动漫"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "http://www.ntyou.cc/",
+			"host": "http://www.ntyou.cc/",
+			"snifferType": 1,
+			"title": "NT动漫"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "http://www.taoju.tv",
+			"host": "http://www.taoju.tv",
+			"snifferType": 1,
+			"title": "奇优影院"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "http://www.wuaitao.cc",
+			"host": "http://www.wuaitao.cc",
+			"snifferType": 1,
+			"title": "吾爱淘"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "http://www.zzzfun.com/",
+			"host": "http://www.zzzfun.com/",
+			"snifferType": 1,
+			"title": "zzzfun动漫"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://aidi.tv/",
+			"host": "https://aidi.tv/",
+			"snifferType": 1,
+			"title": "爱迪影视"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://auete.com/",
+			"host": "https://auete.com/",
+			"snifferType": 1,
+			"title": "auete影院"
+		},{
+			"color": "#FFFFFF",
+			"contentUrl": "http://www.dadagui.com/",
+			"host": "http://www.dadagui.com/",
+			"snifferType": 1,
+			"title": "达达龟影院"
+		},
+		{
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.ysgc.tv/",
+			"host": "https://www.ysgc.tv/",
+			"snifferType": 1,
+			"title": "影视工场"
+		}, 
+		 {
+			"color": "#FFFFFF",
+			"contentUrl": "https://ddrk.me/",
+			"host": "https://ddrk.me/",
+			"snifferType": 1,
+			"title": "低端影院"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "https://enlienli.com/",
+			"host": "https://enlienli.com/",
+			"snifferType": 1,
+			"title": "嗯哩嗯哩"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://v.kyikan.com/",
+			"host": "https://v.kyikan.com/",
+			"snifferType": 1,
+			"title": "看看影院"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.88kan.com/",
+			"host": "https://www.88kan.com/",
+			"snifferType": 1,
+			"title": "八八影院"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.agefans.vip/",
+			"host": "https://www.agefans.vip/",
+			"snifferType": 1,
+			"title": "AGE动漫"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.jpysvip.net/",
+			"host": "https://www.jpysvip.net/",
+			"snifferType": 1,
+			"title": "极品影视"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "https://www.libvio.me",
+			"host": "https://www.libvio.me",
+			"snifferType": 1,
+			"title": "LIB影院"
+		},  {
+			"color": "#FF0000",
+			"contentUrl": "https://www.dazhutizi.net/",
+			"host": "https://www.dazhutizi.net/",
+			"snifferType": 1,
+			"title": "摸扎兔影院"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.piaku.cc/",
+			"host": "https://www.piaku.cc/",
+			"snifferType": 1,
+			"title": "片库影院"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "https://www.tkys.tv/",
+			"host": "https://www.tkys.tv/",
+			"snifferType": 1,
+			"title": "天空影院"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "https://zxzj.vip/",
+			"host": "https://zxzj.vip/",
+			"snifferType": 1,
+			"title": "在线之家"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://yanetflix.com/",
+			"host": "https://yanetflix.com/",
+			"snifferType": 1,
+			"title": "4K影院"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://yyets.dmesg.app/",
+			"host": "https://yyets.dmesg.app/",
+			"snifferType": 8,
+			"title": "人人影视"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://m.dyg5.com",
+			"host": "https://m.dyg5.com",
+			"snifferType": 1,
+			"title": "电影港"
+		}],
+		"name": "优质酷站",
+		"order": 1,
+		"type": "down"
+	}, {
+		"data": [{
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.dytt8.net/",
+			"host": "https://www.dytt8.net/",
+			"snifferType": 2,
+			"title": "电影天堂"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.ygdy8.com",
+			"host": "https://www.ygdy8.com",
+			"snifferType": 2,
+			"title": "阳光电影"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "http://www.hao6v.com",
+			"host": "http://www.hao6v.com",
+			"snifferType": 2,
+			"title": "6V电影"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://m.80s.tw/",
+			"host": "https://m.80s.tw/",
+			"snifferType": 2,
+			"title": "80S"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.meijutt.tv/",
+			"host": "https://www.meijutt.tv/",
+			"snifferType": 2,
+			"title": "美剧天堂"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "http://www.dygang.com/",
+			"host": "http://www.dygang.com/",
+			"snifferType": 1,
+			"title": "电影港"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://m.xl720.com/",
+			"host": "https://m.xl720.com/",
+			"snifferType": 2,
+			"title": "迅雷电影天堂"
+		}, {
+			"color": "#FF0000",
+			"contentUrl": "https://3mag.net/",
+			"host": "https://3mag.net/",
+			"snifferType": 1,
+			"title": "无极磁链"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://m.btdx8.com/",
+			"host": "https://m.btdx8.com/",
+			"snifferType": 1,
+			"title": "比特大熊"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.bd2020.com/",
+			"host": "https://www.bd2020.com/",
+			"snifferType": 1,
+			"title": "BD影视"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "http://clg88.me/",
+			"host": "http://clg88.me/",
+			"snifferType": 2,
+			"title": "磁力狗"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "http://btfox9.info",
+			"host": "http://btfox9.info",
+			"snifferType": 2,
+			"title": "磁力狐狸"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://laowangia.xyz/",
+			"host": "https://laowangia.xyz/",
+			"snifferType": 2,
+			"title": "老王磁力"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://www.cilitiantang2040.xyz",
+			"host": "https://www.cilitiantang2040.xyz",
+			"snifferType": 2,
+			"title": "磁力天堂"
+		}, {
+			"color": "#FFFFFF",
+			"contentUrl": "https://thepiratebay10.org/",
+			"host": "https://thepiratebay10.org/",
+			"snifferType": 2,
+			"title": "海盗湾"
+		}],
+		"name": "蓝光磁力",
+		"order": 1,
+		"type": "down"
+	}],
+	"adurl":[
+			
+			  "clspf.cn",
+			  "yhbsk.cn",
+			  "xkmnbt.xyz",
+			  "surpasslimit.top",
+			  "gaoyuhu.top",
+			  "51.la",
+			  "googletagmanager.com",
+			  "stgowan.com",
+			  "jiantiquan.cn",
+			  "viplp.top",
+			  "aaaa0.top",
+			  "yishu1688.net",
+			  "guding_top.js",
+			  "footer-m.js",
+			  "google_mob.js",
+			  "c.php",
+			  "950d.js",
+			  "960.js",
+			  "760h.js",
+			  "sypf.js",
+			  "pf.js",
+			  "tc.css",
+			  "ads.js",
+			  "gg_dp_1.js",
+			  "gg_gd_1.js",
+			  "x-3298-34.js",
+			  "o.js",
+			  "mxpro.php",
+			  "pv.php",
+			  "7313313_1653757625.jpg",
+			  "1abf2ca5b48b8693171a87b7ef4ae319426592.png"
+			  
+			
+		]
+}
